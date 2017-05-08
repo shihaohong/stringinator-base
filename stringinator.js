@@ -1,6 +1,7 @@
 const _ = require('./underbar');
 
 const first = function(str, n) {
+  // return
   // Your code goes here
 };
 
