@@ -30,5 +30,4 @@ describe('contains()', () => {
 
     expect(_.contains(inventory, 'TurtleBook')).toBe(false);
   });
-
 });
